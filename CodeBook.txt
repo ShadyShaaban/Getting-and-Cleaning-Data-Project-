@@ -1,0 +1,4 @@
+Allanalysis = the combined raw data sets 
+MeanAndStdData=the mean and standard deviation extracted from Allanalysis
+ActivityNames=MeanAndStdData combined with activity and subject 
+FinalDataAverage=independent dataset with mean calculated for each activity and each subject 
